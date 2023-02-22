@@ -1,0 +1,145 @@
+.full-height {
+    height: 80vh;
+}
+
+.height-10{
+    height: 10px;
+}
+
+.flex-none{
+    flex: none !important;
+}
+
+.border-radious{
+    border-radius: 4px 4px 0px 0px;
+}
+
+.background-wave {
+    background-image: url('/img/wave-login.svg');
+    background-color: rgb(240, 240, 240);
+}
+
+.background-page {
+    background-color: rgb(240, 240, 240);
+}
+
+.text-main-color {
+    color: rgb(112, 112, 114);
+}
+
+.text-center {
+    text-align: center;
+}
+
+.width {
+    width: 500px;
+}
+
+.width-full{
+    width: 100%;
+}
+
+.bottom{
+    bottom: 0;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.p-fixed{
+    position: fixed !important;
+}
+
+.flex-direction-column{
+    flex-direction: column;
+}
+
+.just-content-center {
+    justify-content: center;
+}
+
+.just-content-right {
+    justify-content: right;
+}
+
+.just-content-between{
+    justify-content: space-between;
+}
+
+
+.padding-20 {
+    padding: 20px !important;
+}
+
+.padding-40 {
+    padding: 40px !important;
+}
+
+.padding-10 {
+    padding: 10px !important;
+}
+
+.margin-right-10 {
+    margin-right: 10px;
+}
+
+.margin-left-20{
+    margin-left: 20px;
+}
+
+.align-items-center {
+    align-items: center;
+}
+
+.margin-top-10 {
+    margin-top: 10px;
+}
+
+.bottom-right {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    margin-right: 40px;
+    margin-bottom: 70px;
+}
+
+.payroll-background {
+    background-color: #b4c7e7;
+    
+}
+
+.payroll-brand {
+    background-image: url("/img/payroll.png");
+    height: 20px;
+    background-repeat: repeat-x;
+}
+
+.payroll-brand-bottom {
+    background-image: url("/img/payroll.png");
+    height: 20px;
+    background-repeat: repeat-x;
+    
+}
+
+.width-check{
+    width: 170px;
+    text-align: center;
+}
+
+.height-check-space{
+    height: 20px;
+}
+
+.layout-my-payroll{
+    width: 205mm;
+    height: 297mm;
+}
+
+.color-white{
+    color: white;
+}
+
+.background-blob-1{
+    background-image: url('./img/blob.svg');
+}
