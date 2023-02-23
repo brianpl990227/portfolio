@@ -14,7 +14,7 @@
             to perform an assigned task, I learn quickly and look for the most efficient solution of the analyzed problem. I
             believe that my professional development goes hand in hand with the quality of the environment where I am so for
             my part I will try to do it as little as possible with the principles of transparency, empathy, companionship
-        and effort. I finished my studies at the University of Computer Sciences of Cuba in 2022.</p>
+            and effort. I finished my studies at the University of Computer Sciences of Cuba in 2022.</p>
 
         <h1 class="text-center margin-top-10 text-main-color">Interests</h1>
         <ul>
@@ -23,4 +23,5 @@
             <li class="text-main-color">Feel good with my coworkers</li>
             <li class="text-main-color">Last but not least, be happy</li>
         </ul>
-</v-container></template>
+    </v-container>
+</template>
