@@ -1,6 +1,6 @@
 <template>
     <div>
-        <v-img src="/img/wave-up.svg" height="500" cover></v-img>
+        <v-img src="/portfolio/img/wave-up.svg" height="500" cover></v-img>
     </div>
     <div class="background-page">
         <v-container style="margin-top: -100px; position: relative;">
@@ -68,7 +68,7 @@
         </v-container>
     </div>
     <div style="margin-top: -20px;">
-        <v-img src="/img/wave.svg" height="500" cover></v-img>
+        <v-img src="/portfolio/img/wave.svg" height="500" cover></v-img>
     </div>
 </template>
 
