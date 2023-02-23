@@ -5,7 +5,7 @@
     </v-avatar>
     <h1 style="color: white; text-shadow: 1px 1px 10px black;">Brian Perez Lopez</h1>
     <h3 style="color: white; text-shadow: 1px 1px 10px black;">Software Engineer</h3>
-    <v-btn href="/portfolio/files/cv.pdf"></v-btn>
+    <v-btn href="/portfolio/files/cv.pdf">download cv</v-btn>
   </div>
 </template>
 
