@@ -14,11 +14,11 @@
             to perform an assigned task, I learn quickly and look for the most efficient solution of the analyzed problem. I
             believe that my professional development goes hand in hand with the quality of the environment where I am so for
             my part I will try to do it as little as possible with the principles of transparency, empathy, companionship
-            and effort. I finished my studies at the University of Computer Sciences of Cuba in 2022.</p>
+            and effort. I am also responsible, independent and professional in my field, qualities that allow me to carry out projects as a freelancer</p>
 
         <h1 class="text-center margin-top-10 text-main-color">Interests</h1>
         <ul>
-            <li class="text-main-color">Grow professionally</li>
+            <li class="text-main-color">Profesional growth</li>
             <li class="text-main-color">Learn more about microsoft technologies, specially .Net</li>
             <li class="text-main-color">Feel good with my coworkers</li>
             <li class="text-main-color">Last but not least, be happy</li>
