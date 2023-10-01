@@ -14,7 +14,9 @@ export default defineNuxtConfig({
       ],
     },
   },
-  
+  router:{
+    base: '/portfolio'
+  },
   postcss: {
     plugins: {
       tailwindcss: {},
