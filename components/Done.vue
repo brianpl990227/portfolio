@@ -1,7 +1,7 @@
 <template>
     <div id="done" class="center mt-10">
         <div class="p-10">
-            <h1 class="text-4xl my-shadow">Work Experience</h1>
+            <h1 class="text-4xl text-center md:text-left">Work Experience</h1>
             <div class="divider md:w-52"></div>
 
             <div>

@@ -1,5 +1,5 @@
 <template>
-    <footer class="footer p-10 bg-neutral text-neutral-content">
+    <footer id="contact" class="footer p-10 bg-neutral text-neutral-content">
         <aside>
             <p class="footer-title">Contact</p>
             <p>brianpl990227@gmail.com<br />+53 52438269</p>
