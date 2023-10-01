@@ -11,7 +11,7 @@
             <li><a href="#profile">Profesional Profile</a></li>
             <li><a href="#interest">Interests</a></li>
             <li><a href="#skills">Skills</a></li>
-            <li><a href="#done">Work Done</a></li>
+            <li><a href="#done">Work Experience</a></li>
             <li><a href="#contact">Contact</a></li>
           </ul>
         </div>
@@ -47,7 +47,7 @@
         <li class="mt-10"><a href="#profile">Profesional Profile</a></li>
         <li><a href="#interest">Interests</a></li>
         <li><a href="#skills">Skills</a></li>
-        <li><a href="#done">Work Done</a></li>
+        <li><a href="#done">Work Experience</a></li>
         <li><a href="#contact">Contact</a></li>
       </ul>
 
