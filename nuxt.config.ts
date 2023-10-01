@@ -3,6 +3,7 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: ['@nuxtjs/tailwindcss'],
   app: {
+    baseURL: "/yourrepositoryname/",
     head: {
       link: [{ rel: 'icon', type: 'image/png', href: "/img/dotnet.png" }],
       meta: [
@@ -13,9 +14,6 @@ export default defineNuxtConfig({
         { name: 'ogImage', content: 'https://brianpl990227.github.io/portfolio/img/my-photo.jpeg'},
       ],
     },
-  },
-  router:{
-    base: '/portfolio'
   },
   postcss: {
     plugins: {
