@@ -3,7 +3,7 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: ['@nuxtjs/tailwindcss'],
   app: {
-    baseURL: "/yourrepositoryname/",
+    baseURL: "/portfolio/",
     head: {
       link: [{ rel: 'icon', type: 'image/png', href: "/img/dotnet.png" }],
       meta: [
