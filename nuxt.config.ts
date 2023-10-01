@@ -5,13 +5,13 @@ export default defineNuxtConfig({
   app: {
     baseURL: "/portfolio/",
     head: {
+      title: 'Brian Perez | Portfolio',
       link: [{ rel: 'icon', type: 'image/png', href: "/img/dotnet.png" }],
       meta: [
-        { name: 'title', content: 'Brian Perez - Portfolio' },
-        { name: 'ogTitle', content: 'Brian Perez - Portfolio' },
-        { name: 'description', content: 'Here you can see a summary of my professional profile'},
-        { name: 'ogDescription', content: 'Here you can see a summary of my professional profile'},
-        { name: 'ogImage', content: 'https://brianpl990227.github.io/portfolio/img/my-photo.jpeg'},
+        { hid: 'og:title', property: 'og:title', content: 'Brian Perez | Portfolio' },
+        { hid: 'description', property: 'description', content: 'Here you can see a summary of my professional profile'},
+        { hid: 'og:description', property: 'og:description', content: 'Here you can see a summary of my professional profile'},
+        { hid: 'og:image', property: 'og:image', content: 'https://brianpl990227.github.io/portfolio/img/my-photo.jpeg'},
       ],
     },
   },

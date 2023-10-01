@@ -18,9 +18,9 @@ onMounted(() => {
 
 })
 
-useHead({
-    titleTemplate: 'Brian Perez | Portfolio',
+// useHead({
+//     titleTemplate: 'Brian Perez | Portfolio',
 
-})
+// })
 
 </script>
