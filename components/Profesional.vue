@@ -33,7 +33,7 @@
 
                         </p>
                         <div class="flex justify-center md:justify-start">
-                            <a class="btn btn-primary mt-4" href="/files/cv.pdf" target="_blank">download cv <Download></Download> </a>
+                            <a class="btn btn-primary mt-4" href="/portfolio/files/cv.pdf" target="_blank">download cv <Download></Download> </a>
                       
                             <a class="btn btn-secondary ml-4 mt-4" href="https://github.com/brianpl990227" target="_blank">Github <GitHub></GitHub></a>
                           
