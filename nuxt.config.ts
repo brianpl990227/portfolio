@@ -6,7 +6,7 @@ export default defineNuxtConfig({
     baseURL: "/portfolio/",
     head: {
       title: 'Brian Perez | Portfolio',
-      link: [{ rel: 'icon', type: 'image/png', href: "/img/dotnet.png" }],
+      link: [{ rel: 'icon', type: 'image/png', href: "/portfolio/img/dotnet.png" }],
       meta: [
         { hid: 'og:title', property: 'og:title', content: 'Brian Perez | Portfolio' },
         { hid: 'description', property: 'description', content: 'Here you can see a summary of my professional profile'},
